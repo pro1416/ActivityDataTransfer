@@ -15,6 +15,7 @@ public class ActivityOne extends AppCompatActivity {
     Button btnNext;
     private final int requestcode = 1;
     String enteredName, enteredAge, enteredProfession;
+    String ghello="gdhd";
 
 
     @Override
